@@ -1,0 +1,8 @@
+{
+  "name": "@spadin/tsconfig",
+  "version": "1.0.0",
+  "description": "tsconfig.json files",
+  "author": "Joel Spadin <joelspadin@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/ChaosinaCan/tsconfig"
+}
