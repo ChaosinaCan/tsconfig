@@ -6,7 +6,6 @@
         "sourceMap": true,
         "strict": true,
         "esModuleInterop": true,
-        "incremental": true,
         "moduleResolution": "node",
         "noImplicitAny": true,
         "noImplicitThis": true,
