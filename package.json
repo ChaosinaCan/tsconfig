@@ -6,6 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/ChaosinaCan/tsconfig",
   "peerDependencies": {
-    "typescript": "^3.4.0"
+    "typescript": "^3.4.0",
+    "tslint": "^5.16.0"
   }
 }
