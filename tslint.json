@@ -5,6 +5,7 @@
         "interface-name": false,
         "no-console": [true, "log"],
         "no-unused-expression": [true, "allow-fast-null-checks", "allow-new"],
+        "object-literal-sort-keys": false,
         "one-line": [true, "check-open-brace"],
         "only-arrow-functions": false,
         "quotemark": [
